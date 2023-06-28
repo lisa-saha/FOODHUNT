@@ -1,10 +1,10 @@
-#Memories
+Memories
 
 
 ![image](https://github.com/lisa-saha/FOODHUNT/assets/137989335/912ead5a-fb8d-4115-ad11-cc88adf62775)
 
 
-##Introduction
+Introduction
 
 
 
