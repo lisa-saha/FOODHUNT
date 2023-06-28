@@ -15,8 +15,7 @@ Introduction
 
 This is a code repository for the corresponding video tutorial - https://youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu
 
-Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "FOODHUNT" and it is a simple restaurent search by rating quality app that allows users to post quality of foods with reataurant names that searched to eat food of restaurants in their lives.
-
+Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "FOODHUNT" and it is a simple restaurent search by rating quality app that allows users to post quality of foods with reataurant names that searched by rating(likes) to eat food of restaurants in their lives.
 By the end of this video, you will have a strong understanding of how the MERN Stack works.
 
 Setup:
